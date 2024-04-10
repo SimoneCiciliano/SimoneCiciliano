@@ -4,10 +4,9 @@
 
 I'm an NLP geek based in South Tyrol 🏔️
 
+My toolkit includes Python, R, and a background in linguistics
 
-Fueled by coffee, with Python, R, and a background in linguistics as my toolkit, I'm on a journey to foster interactivity in language models!
-
-This is my playground where you'll find projects I'm working on, experiments I'm running, and maybe even a glimpse into the chaos of my learning journey. Feel free to have a look, ask questions, or give suggestions!
+Fueled by passion and lots of coffee, I'm on a journey to foster interactivity in language models!
 
 -------------------------------------------------------
 
