@@ -43,7 +43,7 @@ Fueled by passion and lots of coffee, I'm on a journey to foster interactivity i
 - Data Visualization:
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-grey?logo=matplotlib)
   ![Pandas](https://img.shields.io/badge/pandas-purple?logo=pandas)
-- Microcontrollers:
+- Hardware:
   ![Raspberry Pi](https://img.shields.io/badge/Raspberry-violet?logo=raspberrypi)
   ![Pimoroni](https://img.shields.io/badge/Pimoroni-red?)
   ![Adafruit](https://img.shields.io/badge/Adafruit-grey?logo=adafruit)
