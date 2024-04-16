@@ -1,4 +1,4 @@
-<h1 align='center'>Hey there<img  src="https://media3.giphy.com/media/7MObdCmkdgKYcwW6yM/giphy.gif" width=3% height=1%/> I'm Simone</h1>
+<h1 align='center'>Hey there<img  src="https://media3.giphy.com/media/7MObdCmkdgKYcwW6yM/giphy.gif" width=5% height=5%/> I'm Simone</h1>
 
 
 
