@@ -2,11 +2,11 @@
 
 
 
-I'm an NLP geek based in South Tyrol 🏔️
+I'm an NLP enthusiast based in South Tyrol 🏔️
 
-My toolkit includes Python, R, and a background in linguistics
+My toolkit includes Python, R, and a background in Linguistics
 
-Fueled by passion and lots of coffee, I'm on a journey to foster interactivity in language models!
+Fueled by passion and lots of coffee, I'm on a journey to create great Human-Computer Linguistic Interaction!
 
 -------------------------------------------------------
 
@@ -14,7 +14,7 @@ Fueled by passion and lots of coffee, I'm on a journey to foster interactivity i
 
 - 🎓 Currently a student in Computational Linguistics @[Free University of Bozen-Bolzano](https://www.unibz.it/);
 - 👨‍💻 Skilled in:
-    - Multilingual NLP & Speech Technologies;
+    - Multilingual NLP, ASR & HCI;
     - Data Analysis & Machine Learning; 
     - Drinking coffee (I'm really good at this one);
 - 📚 Experience in NLP academic research;
@@ -51,9 +51,9 @@ Fueled by passion and lots of coffee, I'm on a journey to foster interactivity i
 
 
 ### 🔭 Interests
-- Building trustworthy and user-centric language models.
-- Use language technologies that adapt to complex workflows and boost productivity.
-- Find algorithmic ways to describe what happens when we talk to each other.
+- Building User-centric conversational interfaces;
+- Use interaction-design principles to improve User-LLM interaction;
+- Helping people to improve their ideas by finding the NLP tools that suits them best;
 
 -------------------------------------------------------
 
