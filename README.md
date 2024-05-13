@@ -51,9 +51,9 @@ Fueled by passion and lots of coffee, I'm on a journey to create great Human-Com
 
 
 ### 🔭 Interests
-- Building User-centric conversational interfaces;
-- Use interaction-design principles to improve User-LLM interaction;
-- Helping people to improve their ideas by finding the NLP tools that suits them best;
+- Reinforcement learning for conversational interfaces;
+- Interaction design for Task-Oriented dialogue systems;
+- Help people improve their ideas by finding the NLP tools that suit them best;
 
 -------------------------------------------------------
 
