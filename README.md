@@ -4,7 +4,7 @@ Hi there! I'm Simone
 
 Computational Linguist by training, I'm at the crossroads between Machine Learning Engineering and Conversation Design.
 
-I like building useful and usable language-enabled tools, as well as contributing to research. The most interesting thing I've heard in the Last few years is Human-Centered AI, and that's what I try to contribute to.
+I like building useful and usable language-enabled tools, as well as contributing to research ([here](https://github.com/SimoneCiciliano/SimoneCiciliano/blob/main/publications.md) you can find the publications I contributed to). The most interesting thing I've heard in the Last few years is Human-Centered AI, and that's what I try to contribute to.
 
 I can speak several languages, as well as programming languages, but with both people and computers I use Python 90% of the time.
 
