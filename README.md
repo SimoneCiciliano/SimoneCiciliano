@@ -19,8 +19,8 @@ Skills: ![pytorch](https://img.shields.io/badge/pytorch-b?style=flat-square&logo
 
 ### Publications
 
-- [Echoes from Alexandria: A Large Resource for Multilingual Book Summarization](https://arxiv.org/pdf/2306.04334)
+- [Echoes from Alexandria: A Large Resource for Multilingual Book Summarization](https://aclanthology.org/2023.findings-acl.54/)
 
-- [NounAtlas: Filling the Gap in Nominal Semantic Role Labeling](https://github.com/SapienzaNLP/nounatlas/blob/main/paper.pdf)
+- [NounAtlas: Filling the Gap in Nominal Semantic Role Labeling](https://aclanthology.org/2024.acl-long.857/)
 
 - More to appear 
