@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media3.giphy.com/media/kyKuZzsa6bShl3SaHe/giphy.gif" alt='I found out I can turn coffee into code' width=25% height=10%/>
 
-Researcher at the Free University of Bozen-Bolzano
+<h3 align='center'>Researcher at the Free University of Bozen-Bolzano</h3>
 
 Languages: ![python](https://img.shields.io/badge/python-b?style=flat-square&logo=python&logoColor=AAA&color=36465D), ![R](https://img.shields.io/badge/R-b?style=flat-square&logo=r&logoColor=AAA&color=36465D), ![C++](https://img.shields.io/badge/C++-b?style=flat-square&logo=sql&logoColor=AAA&color=36465D)
 
