@@ -2,6 +2,8 @@
 
 <img align='right' src="https://media3.giphy.com/media/kyKuZzsa6bShl3SaHe/giphy.gif" alt='I found out I can turn coffee into code' width=25% height=10%/>
 
+Researcher at the Free University of Bozen-Bolzano
+
 Languages: ![python](https://img.shields.io/badge/python-b?style=flat-square&logo=python&logoColor=AAA&color=36465D), ![R](https://img.shields.io/badge/R-b?style=flat-square&logo=r&logoColor=AAA&color=36465D), ![C++](https://img.shields.io/badge/C++-b?style=flat-square&logo=sql&logoColor=AAA&color=36465D)
 
 Tools: ![Git](https://img.shields.io/badge/git-b?style=flat-square&logo=git&logoColor=AAA&color=36465D), ![Google Cloud](https://img.shields.io/badge/Google_Cloud-b?style=flat-square&logo=googlecloud&logoColor=AAA&color=36465D), ![Vim](https://img.shields.io/badge/Vim-%230A2D62?style=flat-square&logo=vim&logoColor=AAA&color=36465D), ![RaspberryPi](https://img.shields.io/badge/RaspberryPi-%230A2D62?style=flat-square&logo=raspberrypi&logoColor=AAA&color=36465D), ![micro:bit](https://img.shields.io/badge/micro:bit-%230A2D62?style=flat-square&logo=microbit&logoColor=AAA&color=36465D)
@@ -15,6 +17,8 @@ Skills: ![pytorch](https://img.shields.io/badge/pytorch-b?style=flat-square&logo
 🌱 Learning: ![Interaction Design](https://img.shields.io/badge/Interaction_Design-b?style=flat-square&logoColor=AAA&color=36465D); ![Experimental Research](https://img.shields.io/badge/Experimental_Research-b?style=flat-square&logoColor=AAA&color=36465D)
 
 🧐 Ask me about: ![Computational Linguistics](https://img.shields.io/badge/Computational_Linguistics-b?style=flat-square&logoColor=AAA&color=36465D); ![Natural Language Processing](https://img.shields.io/badge/Natural_Language_Processing-b?style=flat-square&logoColor=AAA&color=36465D); ![Interactive Technologies](https://img.shields.io/badge/Interactive_Technologies-b?style=flat-square&logoColor=AAA&color=36465D)
+
+-------------------------------------------------------
 
 ### Publications
 
