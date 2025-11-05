@@ -22,7 +22,7 @@ Skills: ![pytorch](https://img.shields.io/badge/pytorch-b?style=flat-square&logo
 
 ### Publications
 
-- [Workshops and Hybrid Toolkits for Communicating Across Disciplines](https://dl.acm.org/doi/pdf/10.1145/3750069.3750087)
+- [Workshops and Hybrid Toolkits for Communicating Across Disciplines](https://dl.acm.org/doi/full/10.1145/3750069.3750087)
 
 - [NounAtlas: Filling the Gap in Nominal Semantic Role Labeling](https://aclanthology.org/2024.acl-long.857/)
 
