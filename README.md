@@ -1,5 +1,5 @@
 <h1 align='center'>Simone Ciciliano</h1>
-<h3 align='center'>PhD Student @[Physical Computing Lab](https://pc.projects.unibz.it) @[Free University of Bozen-Bolzano](https://www.unibz.it)</h3>
+### PhD Student @[Physical Computing Lab](https://pc.projects.unibz.it) @[Free University of Bozen-Bolzano](https://www.unibz.it)
 
 <img align='right' src="https://media3.giphy.com/media/kyKuZzsa6bShl3SaHe/giphy.gif" alt='I found out I can turn coffee into code' width=25% height=10%/>
 
