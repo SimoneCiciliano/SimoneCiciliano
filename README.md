@@ -5,7 +5,9 @@
 
 -------------------------------------------------------
 
-I'm a PhD Student at the Free University of Bozen-Bolzano.
+I'm a PhD Student at the Faculty of Design and Arts of the Free University of Bozen-Bolzano.
+
+I work at the Physical Computing Lab, Faculty of Engineering.
 
 Here's where I keep the stuff I work on.
 
